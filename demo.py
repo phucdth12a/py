@@ -45,3 +45,7 @@ for i in range(len(listVN30)):
 # getData('VND')
 
 print(result)
+
+
+
+SAR (parabolic SAR)
