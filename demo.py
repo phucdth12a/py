@@ -49,3 +49,5 @@ print(result)
 
 
 SAR (parabolic SAR)
+
+RSI
